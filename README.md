@@ -6,7 +6,7 @@ Data Scientist and Data Analyst
 
 Habeeb is graduate of Electrical and Electronics Engineering, a fellow of Hamoye AI Labs and presently a Junior Data Scientist at Zummit Africa. He is interested in all things Data, machine learning and AI, loves to work problems using such on cutting edge tools to bring about change that makes lives easier.
 
-* 🌍  I'm based in Lagos,Nigeria
+* 🌍  I'm based in Abuja,Nigeria
 * ✉️  You can contact me at [agbajeh8@gmail.com](mailto:agbajeh8@gmail.com)
 * 🤝  I'm open to collaborating on Computer Vision projects, Deep Learning Projects and any AI/ML Projects
 
