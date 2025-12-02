@@ -4,7 +4,9 @@ Hi 👋 My name is Habeebullah Agbaje
 Data Scientist and Data Analyst
 -------------------------------
 
-Habeeb is currently pursuing his masters in Data Science, a fellow of Hamoye AI Labs and was a Data Analyst at EntryLevel. He is interested in all things Data, machine learning and AI, loves to work on problems using cutting edge tools to bring about change that makes lives easier.
+Habeeb Agbaje is a passionate Data Scientist and Machine Learning enthusiast currently pursuing his Master's in Data Science at the University of Salford. A proud fellow of Hamoye AI Labs, he brings a robust skill set in Python, Machine Learning, and Large Language Models (LLM) to solve real-world problems.
+
+With a proven track record as a Data Analyst at EntryLevel and CV Library, and a Python Developer at LD Talent, Habeeb excels in transforming complex data into actionable insights. His experience includes designing and deploying data pipelines, building predictive models in Amazon SageMaker, and developing innovative solutions like drowsiness and emotion detection models using computer vision. He is driven by a desire to leverage cutting-edge tools to create impactful change and make lives easier through data-driven innovation.
 
 * 🌍  I'm based in Manchester,United Kingdom
 * ✉️  You can contact me at [agbajeh8@gmail.com](mailto:agbajeh8@gmail.com)
